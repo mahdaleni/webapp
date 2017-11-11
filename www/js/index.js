@@ -10,7 +10,7 @@ var app = {
         app.receivedEvent('deviceready');
 
         // Here, we redirect to the web site.
-         var targetUrl = "https://quizegg.com/q/150344/cordova/setPlatformCookie?platform=" + cordova.platformId;
+         var targetUrl = "https://quizegg.com/cordova/setPlatformCookie?platform=" + cordova.platformId;
         var bkpLink = document.getElementById("bkpLink");
         bkpLink.setAttribute("href", targetUrl);
         bkpLink.text = targetUrl;
