@@ -16,7 +16,7 @@
   <allow-intent href="sms:*" />
   <allow-intent href="mailto:*" />
   <allow-intent href="geo:*" />
-  <allow-navigation href="https://quizegg.com/q/150344" />
+  <allow-navigation href="https://www.detik.com/" />
   <preference name="windows-target-version" value="10.0" />
   <platform name="android">
     <allow-intent href="market:*" />
